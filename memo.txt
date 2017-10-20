@@ -1,4 +1,4 @@
-﻿Greetings, everyone!
+Greetings, everyone!
  
 You are receiving this email as you signed up for this class through the Data Services Workshops website at IQSS. If you are not going to come, please let us know.
  
@@ -33,4 +33,4 @@ Change-stage-comit
 
 
 Whatsup!
-a la moon
+a la moon this is in French
