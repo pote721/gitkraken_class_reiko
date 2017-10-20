@@ -1,0 +1,27 @@
+Greetings, everyone!
+ 
+You are receiving this email as you signed up for this class through the Data Services Workshops website at IQSS. If you are not going to come, please let us know.
+ 
+We do have a full class for this Friday, so we will start promptly at 1 pm. The training room is located at IQSS, 1737 Cambridge Street (CGIS Knafel Building), Room K018 (https://goo.gl/maps/fVCHntDTqwz).
+ 
+Our class will help you learn git using the GUI client GitKraken, and the materials we will be using are on our GitHub site:
+ 
+            https://github.com/hbs-rcs/versioning_data_scripts
+ 
+A more complete version of this lesson can be found at Software Carpentry's website:
+ 
+            http://swcarpentry.github.io/git-novice/
+ 
+Cheat sheets are also available:
+ 
+            https://www.gitkraken.com/downloads/gitKraken-cheat-sheet-28sept2017.pdf
+            https://www.gitkraken.com/downloads/gitkraken-for-github-cheat-sheet-28sept2017.pdf
+ 
+::::::::::::::::::::::::::::::::::::::::
+
+Žö‹ÆNote
+https://github.com/hbs-rcs/versioning_data_scripts
+
+
+Oct 20,2017
+github-Hosting Service
